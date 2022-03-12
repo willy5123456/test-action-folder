@@ -18,5 +18,7 @@ jobs:
           # mkdir -p myNewFolder/myNewSubFolder && cp -R dist myNewFolder/myNewSubFolder
           mkdir -p myNewFolder
           mkdir -p myNewFolder/myNewSubFolder 
-          ls myNewFolder/MyNewSubFolder
+          
+          ls myNewFolder
+          ls myNewFolder/myNewSubFolder
           
