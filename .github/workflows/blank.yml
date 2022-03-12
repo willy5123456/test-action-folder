@@ -1,4 +1,4 @@
-ame: SO-023 Create folder
+name: SO-023 Create folder
 
 on:
   push:
